@@ -7,7 +7,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-I would like to create a web application for users to be able to record baseball or softball statistics. Users can keep score of the game using the application or enter in the data after the fact. The results of the data entered will calculate as statistics which are visible
+I am going to create a web application for users to be able to track compliance with their Invisalign treatment plan to maximize their chances of successful teeth movement. Users will be able to add their custom treatment plan into the application, then use it to record when they have their trays in and out and to measure compliance with their plan as well as see overall progress.
+
 ### Features
 User Accounts to allow login and personalization of statistics view.
 - User Account Login
